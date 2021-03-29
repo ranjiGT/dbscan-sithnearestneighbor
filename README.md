@@ -1,4 +1,4 @@
-# dbscan-sithnearestneighbor
+# dbscan-sixthnearestneighbor
 Implementation of k-means task by DBSCAN with focus on noise reduction
 
 # Tasks
